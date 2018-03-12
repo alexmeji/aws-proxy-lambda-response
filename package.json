@@ -1,0 +1,31 @@
+{
+  "name": "aws-proxy-lambda-response",
+  "version": "1.0.0",
+  "description": "AWS lambda Response with API Gateway Proxy Integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexmeji/aws-proxy-lambda-response.git"
+  },
+  "keywords": [
+    "aws",
+    "lambda",
+    "aws-lambda",
+    "aws-proxy",
+    "proxy",
+    "serverless"
+  ],
+  "author": {
+    "name": "Alex Mejicanos",
+    "email": "alexmejicanos@outlook.com",
+    "website": "http://alexmejicanos.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexmeji/aws-proxy-lambda-response/issues"
+  },
+  "homepage": "https://github.com/alexmeji/aws-proxy-lambda-response#readme"
+}
