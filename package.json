@@ -4,7 +4,7 @@
   "description": "AWS lambda Response with API Gateway Proxy Integration",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jasmine ./test/proxy.spec.js"
   },
   "repository": {
     "type": "git",
