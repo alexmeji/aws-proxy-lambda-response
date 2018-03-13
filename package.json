@@ -1,6 +1,6 @@
 {
   "name": "aws-proxy-lambda-response",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "AWS lambda Response with API Gateway Proxy Integration",
   "main": "index.js",
   "scripts": {

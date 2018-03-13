@@ -2,7 +2,7 @@
 When you create your a AWS Lambda and integrate a Proxy API Gateway, you need to send a structure response to the API Gateway.
 
 ## Installation
-`npm install awslambda-proxy-response --save`
+`npm install --save aws-proxy-lambda-response`
 
 ## How to Use
 This packet have a transfor function called **ProxyResponseAWS**, this function receive 4 parameters
@@ -15,7 +15,7 @@ This packet have a transfor function called **ProxyResponseAWS**, this function 
 ## Example
 
 ```javascript
-  const lambdaResponse = require('awslambda-proxy-response');
+  const lambdaResponse = require('aws-proxy-lambda-response');
  
   exports.handler = (event, context, callback) => {
     // response method needs at least 4 parameters
